@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\Github\control\Task1\Esercizio\bin\Debug\net7.0\Esercizio.exe
+C:\Users\Hp\Desktop\Github\control\Task1\Esercizio\bin\Debug\net7.0\Esercizio.deps.json
+C:\Users\Hp\Desktop\Github\control\Task1\Esercizio\bin\Debug\net7.0\Esercizio.runtimeconfig.json
+C:\Users\Hp\Desktop\Github\control\Task1\Esercizio\bin\Debug\net7.0\Esercizio.dll
+C:\Users\Hp\Desktop\Github\control\Task1\Esercizio\bin\Debug\net7.0\Esercizio.pdb
+C:\Users\Hp\Desktop\Github\control\Task1\Esercizio\obj\Debug\net7.0\Esercizio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Github\control\Task1\Esercizio\obj\Debug\net7.0\Esercizio.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Github\control\Task1\Esercizio\obj\Debug\net7.0\Esercizio.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Github\control\Task1\Esercizio\obj\Debug\net7.0\Esercizio.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Github\control\Task1\Esercizio\obj\Debug\net7.0\Esercizio.dll
+C:\Users\Hp\Desktop\Github\control\Task1\Esercizio\obj\Debug\net7.0\refint\Esercizio.dll
+C:\Users\Hp\Desktop\Github\control\Task1\Esercizio\obj\Debug\net7.0\Esercizio.pdb
+C:\Users\Hp\Desktop\Github\control\Task1\Esercizio\obj\Debug\net7.0\Esercizio.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Github\control\Task1\Esercizio\obj\Debug\net7.0\ref\Esercizio.dll
